@@ -1,6 +1,4 @@
-Here's a professional README.md file for your project:
 
-```markdown
 # Two-Way Communication System - Client/Server Chat Application
 
 A simple yet powerful demonstration of bidirectional communication between a client and server using Python sockets with **multi-threading** for simultaneous sending and receiving of messages.
